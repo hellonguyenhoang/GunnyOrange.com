@@ -21,7 +21,7 @@
 	<UPDATE Execution="CefSharp.dll" Name="https://github.com/hellonguyenhoang/GunnyOrange.com/raw/main/CefSharp.dll"></UPDATE>
 	<UPDATE Execution="CefSharp.WinForms.dll" Name="https://github.com/hellonguyenhoang/GunnyOrange.com/raw/main/CefSharp.WinForms.dll"></UPDATE>
 	<UPDATE Execution="chrome_100_percent.pak" Name="https://github.com/hellonguyenhoang/GunnyOrange.com/raw/main/chrome_100_percent.pak"></UPDATE>
-	<UPDATE Execution="chrome_200_percent.pak" Name="https://github.com/hellonguyenhoang/GunnyOrange.com/raw/main/chrome_200_percent.pak"></UPDATE>
+	
 	<UPDATE Execution="chrome_elf.dll" Name="https://github.com/hellonguyenhoang/GunnyOrange.com/raw/main/chrome_elf.dll"></UPDATE>
 	<UPDATE Execution="Client Gunny V2023.12.13.exe" Name="https://github.com/hellonguyenhoang/GunnyOrange.com/raw/main/Client Gunny V2023.12.13.exe"></UPDATE>
 	<UPDATE Execution="Client Gunny V2023.12.13.exe.config" Name="https://github.com/hellonguyenhoang/GunnyOrange.com/raw/main/Client Gunny V2023.12.13.exe.config"></UPDATE>
