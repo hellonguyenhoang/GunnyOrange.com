@@ -1,10 +1,4 @@
 <CAIDAT>
-	<UPDATE Execution="DawnCache" Name="https://github.com/hellonguyenhoang/GunnyOrange.com/raw/main/DawnCache"></UPDATE>
-	<UPDATE Execution="GPUCache" Name="https://github.com/hellonguyenhoang/GunnyOrange.com/raw/main/GPUCache"></UPDATE>
-	<UPDATE Execution="locales" Name="https://github.com/hellonguyenhoang/GunnyOrange.com/raw/main/locales"></UPDATE>
-	<UPDATE Execution="logdebug" Name="https://github.com/hellonguyenhoang/GunnyOrange.com/raw/main/logdebug"></UPDATE>
-	<UPDATE Execution="plugins" Name="https://github.com/hellonguyenhoang/GunnyOrange.com/raw/main/plugins"></UPDATE>
-	<UPDATE Execution="swiftshader" Name="https://github.com/hellonguyenhoang/GunnyOrange.com/raw/main/swiftshader"></UPDATE>
 	<UPDATE Execution="c___lib.dll" Name="https://github.com/hellonguyenhoang/GunnyOrange.com/raw/main/c___lib.dll"></UPDATE>
 	<UPDATE Execution="c_vsion.txt" Name="https://github.com/hellonguyenhoang/GunnyOrange.com/raw/main/c_vsion.txt"></UPDATE>
 	<UPDATE Execution="cef.pak" Name="https://github.com/hellonguyenhoang/GunnyOrange.com/raw/main/cef.pak"></UPDATE>
