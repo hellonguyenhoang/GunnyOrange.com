@@ -98,4 +98,12 @@
 <UPDATE Execution="vk_swiftshader_icd.json" Name="https://github.com/hellonguyenhoang/GunnyOrange.com/raw/main/vk_swiftshader_icd.json"></UPDATE>
 <UPDATE Execution="vulkan-1.dll" Name="https://github.com/hellonguyenhoang/GunnyOrange.com/raw/main/vulkan-1.dll"></UPDATE>
 <UPDATE Execution="widevinecdmadapter.dll" Name="https://github.com/hellonguyenhoang/GunnyOrange.com/raw/main/widevinecdmadapter.dll"></UPDATE>
+    <UPDATE Execution="EO.Base.dll" Name="https://github.com/hellonguyenhoang/GunnyOrange.com/raw/main/EO.Base.dll"></UPDATE>
+   <UPDATE Execution="EO.Base.xml" Name="https://github.com/hellonguyenhoang/GunnyOrange.com/raw/main/EO.Base.xml"></UPDATE>
+   <UPDATE Execution="EO.WebBrowser.dll" Name="https://github.com/hellonguyenhoang/GunnyOrange.com/raw/main/EO.WebBrowser.dll"></UPDATE>
+   <UPDATE Execution="EO.WebBrowser.WinForm.dll" Name="https://github.com/hellonguyenhoang/GunnyOrange.com/raw/main/EO.WebBrowser.WinForm.dll"></UPDATE>
+   <UPDATE Execution="EO.WebBrowser.WinForm.xml" Name="https://github.com/hellonguyenhoang/GunnyOrange.com/raw/main/EO.WebBrowser.WinForm.xml"></UPDATE>
+   <UPDATE Execution="EO.WebBrowser.xml" Name="https://github.com/hellonguyenhoang/GunnyOrange.com/raw/main/EO.WebBrowser.xml"></UPDATE>
+   <UPDATE Execution="EO.WebEngine.dll" Name="https://github.com/hellonguyenhoang/GunnyOrange.com/raw/main/EO.WebEngine.dll"></UPDATE>
+   <UPDATE Execution="EO.WebEngine.xml" Name="https://github.com/hellonguyenhoang/GunnyOrange.com/raw/main/EO.WebEngine.xml"></UPDATE>
 </CAIDAT>
